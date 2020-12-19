@@ -1,4 +1,4 @@
-// Error handling example
+// Error handling example pg. 18
 package main
 
 import (
